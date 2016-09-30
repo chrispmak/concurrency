@@ -1,4 +1,4 @@
-package pool;
+package thread.pool;
 
 /**
  * Created by ponyboy on 9/29/2016.

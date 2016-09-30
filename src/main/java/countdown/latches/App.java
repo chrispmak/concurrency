@@ -1,4 +1,4 @@
-package latches;
+package countdown.latches;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
