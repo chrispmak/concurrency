@@ -41,7 +41,7 @@ public class Producer {
                 lock.notify();
             }
 
-            Thread.sleep(random.nextInt(1000));
+            Thread.sleep(random.nextInt(500));
         }
     }
 }
